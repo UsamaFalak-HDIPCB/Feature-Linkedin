@@ -111,7 +111,7 @@ The board can be used for:
 
 ##
 <img width="1576" height="1609" alt="Image" src="https://github.com/user-attachments/assets/cc8fac2b-79ca-474e-8af4-c753b07ababc" />
-<img width="394" height="402" alt="Image" src="https://github.com/user-attachments/assets/67eeb11b-67d8-4dd8-bda9-2e6cddd2318f" />
+<img width="1576" height="1609" alt="Image" src="https://github.com/user-attachments/assets/b90f6610-e1b4-472a-8498-596a2c43b7b4" />
 
 ##
 <img width="956" height="776" alt="Image" src="https://github.com/user-attachments/assets/b406f884-2b61-48cb-ab64-e2b69460a24f" />
